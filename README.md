@@ -18,8 +18,8 @@ Bouton 1 : SCAN
 Bouton 2 : BEERDEX
   - Affiche la liste des bières qui ont été scannés par l'application
   
- Le logo de l'application utilise l'accéléromètre, et peut donc bouger sur la surface de l'écran en fonction de l'inclinaison du téléphone.
+Le logo de l'application utilise l'accéléromètre, et peut donc bouger sur la surface de l'écran en fonction de l'inclinaison du téléphone.
  
- Un bouton Réglages est aussi présent dans l'application et permet de sauvegarder les préferences utilisateurs.
+Un bouton Réglages est aussi présent dans l'application et permet de sauvegarder les préferences utilisateurs.
  
  
