@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beerdex</string>
+    <string name="scan">scan</string>
+    <string name="beerdex">beerdex</string>
+    <string name="welcome">Bienvenue sur Beerdex, Attrapez-les tous!</string>
+</resources>
