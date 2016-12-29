@@ -1,6 +1,7 @@
 Projet Android 3A - Arnaud Labyre &amp; Adrien Leyronas
 
 Ce projet a été réalisé dans le cadre de nos études en 3A de l'école ESIEA.
+Nous pensons avec conviction que l'idée de notre application est intérréssante, c'est pour cela que le devellopement de celle-ci va continuer meme après la fin du module, afin de la lancer pour le grand public.
 
 Nous avons décidé de nommer ce projet Beerdex, en référence à l'objet Pokédex de l'univers Pokémon.
 
