@@ -22,5 +22,15 @@ Bouton 2 : BEERDEX
 Le logo de l'application utilise l'accéléromètre, et peut donc bouger sur la surface de l'écran en fonction de l'inclinaison du téléphone.
  
 Un bouton Réglages est aussi présent dans l'application et permet de sauvegarder les préferences utilisateurs.
+
+EDIT : 
+
+De nombreuses fonctions sont actuellement en dévellopement :
+
+  - Les bières ne se stockent pas 
+  - Les préférences sont utilisables mais ne servent à rien
+  - Il n'y a pas la sauvegarde des bières scannés en fonction de l'utilisateur
+  
+  
  
  
